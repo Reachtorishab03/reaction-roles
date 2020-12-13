@@ -1,4 +1,4 @@
 {
-  "token": "NzIxMjUyNTgyNTg0MDkwNjU1.XuR0zw.JVgz3t0j2y7t1yBKXurh8QWm7wI",
-  "mongo": "mongodb+srv://tovade:coltzIsGood@cluster0.x0vx1.gcp.mongodb.net/test"
+  "token": "your token",
+  "mongo": "your mongoDB compass url"
 }
